@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "jason",
+    "diagnosis": "sakit perut"
+  },
+  {
+    "id": 2,
+    "name": "bobby",
+    "diagnosis": "sakit hati"
+  },
+  {
+    "id": 3,
+    "name": "adi",
+    "diagnosis": "mati"
+  },
+  {
+    "id": 4,
+    "name": "test",
+    "diagnosis": "testsakit"
+  }
+]
